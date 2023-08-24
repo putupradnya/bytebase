@@ -1,1 +1,1 @@
-ALTER TABLE public.temp_db ADD from_bank VARCHAR(255);
+ALTER TABLE tempdb ADD from_bank VARCHAR(255);
