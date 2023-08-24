@@ -1,1 +1,1 @@
-ALTER TABLE temp_db ADD from_bank VARCHAR(255);
+ALTER TABLE temp_db add tipe_transaksi VARCHAR(255);
