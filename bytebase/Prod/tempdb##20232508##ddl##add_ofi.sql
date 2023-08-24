@@ -1,0 +1,1 @@
+ALTER TABLE public.temp_db ADD from_bank VARCHAR(255);
