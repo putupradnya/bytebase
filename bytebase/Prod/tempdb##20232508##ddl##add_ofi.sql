@@ -1,1 +1,1 @@
-ALTER TABLE public.temp_db add tipe_transaksi VARCHAR(255);
+ALTER TABLE public.temp_db add username VARCHAR(255);
